@@ -9,7 +9,7 @@ export default function ContactSection() {
       <ul className="mt-8 space-y-4">
         <ContactLink 
           label="Email" 
-          href="mailto:elishamelaltair.narisma@cit.edu" 
+          href="https://myaccount.microsoft.com/?ref=MeControl" 
           text="elishamelaltair.narisma@cit.edu" 
         />
         <ContactLink 
