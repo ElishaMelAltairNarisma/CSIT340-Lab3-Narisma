@@ -19,7 +19,7 @@ export default function ProjectsSection() {
           title="CSIT340 Lab 3"
           description="A page that shows how long the canteen line is so students can decide when to go."
           tech="HTML · CSS · JavaScript"
-          link="https://github.com/yourusername"
+          link="https://github.com/ElishaMelAltairNarisma/CSIT340-Lab3-Narisma"
         />
         <ProjectCard 
           year="2026"
